@@ -1,4 +1,4 @@
-# Health Monitoring Django App
+# Project Management Django App
 
 ![Django](https://img.shields.io/badge/Django-3.2-green)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
