@@ -72,7 +72,7 @@ This is a Django application which will use to manage projects with respect to c
 
 
 # User Dashboard
-(SnapShots/User Dashboard.png)
+SnapShots/User Dashboard.png
 
 # GET clients api
 ![Home](SnapShots/GET clients api.png)
