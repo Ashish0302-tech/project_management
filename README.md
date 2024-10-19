@@ -70,33 +70,39 @@ This is a Django application which will use to manage projects with respect to c
 
 ## Snapshots
 
-# Home Page
-![Home](SnapShots/home.png)
 
-# Display Page
-![Home](SnapShots/Display.png)
+# User Dashboard
+![Home](SnapShots/User Dashboard.png)
 
-# Services Page
-![Home](SnapShots/Services.png)
+# GET clients api
+![Home](SnapShots/GET clients api.png)
 
-# Doctor's Page
-![Home](SnapShots/DoctorsPage.png)
+# Post Clients api
+![Home](SnapShots/Post Clients api.png)
 
-# Health Plan Page
-![Home](SnapShots/ViewPlan.png)
+# GET Clients api by ID
+![Home](SnapShots/GET Clients api by ID.png)
 
-# Email
-![Home](SnapShots/Email.jpeg)
+# DELETE clients api
+![Home](SnapShots/DELETE clients api.png)
 
+# PUT clients api
+![Home](SnapShots/PUT clients api.png)
 
+# POST project api
+![Home](SnapShots/POST project api.png)
+
+# GET projects api
+![Home](SnapShots/GET projects api.png)
+
+# DELETE projects api
+![Home](SnapShots/DELETE projects api.png)
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
