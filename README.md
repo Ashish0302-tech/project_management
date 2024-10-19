@@ -72,31 +72,31 @@ This is a Django application which will use to manage projects with respect to c
 
 
 # User Dashboard
-SnapShots/User Dashboard.png
+![Home](SnapShots/User_Dashboard.png)
 
 # GET clients api
-![Home](SnapShots/GET clients api.png)
+![Home](SnapShots/GET_clients_api.png)
 
 # Post Clients api
-![Home](SnapShots/Post Clients api.png)
+![Home](SnapShots/Post_Clients_api.png)
 
 # GET Clients api by ID
-![Home](SnapShots/GET Clients api by ID.png)
+![Home](SnapShots/GET_Clients_api_by_ID.png)
 
 # DELETE clients api
-![Home](SnapShots/DELETE clients api.png)
+![Home](SnapShots/DELETE_clients_api.png)
 
 # PUT clients api
-![Home](SnapShots/PUT clients api.png)
+![Home](SnapShots/PUT_clients_api.png)
 
 # POST project api
-![Home](SnapShots/POST project api.png)
+![Home](SnapShots/POST_project_api.png)
 
 # GET projects api
-![Home](SnapShots/GET projects api.png)
+![Home](SnapShots/GET_projects_api.png)
 
 # DELETE projects api
-![Home](SnapShots/DELETE projects api.png)
+![Home](SnapShots/DELETE_projects_api.png)
 
 ## Contributing
 
